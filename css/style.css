@@ -195,6 +195,7 @@ body{
     margin: 3rem auto;
     background-color: #F3F0D7;
     font-family: 'Montserrat', sans-serif;
+    max-width: 50%;
   }
   .showcase-list h1 {
     margin: 0.5rem;
