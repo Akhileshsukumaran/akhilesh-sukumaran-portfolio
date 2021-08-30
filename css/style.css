@@ -1,0 +1,213 @@
+
+
+body{
+    background-color: #e3fdfd;
+  }
+  
+  
+  /* nav bar */
+  
+  .navigation{
+      padding: 1rem;
+      border-bottom-left-radius: 1rem;
+  }
+  
+  .navigation .nav-brand{
+      font-weight: bold;
+      font-size: 1.1rem;
+  }
+  
+  .navigation .link
+  {
+    color:#11999E;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+  }
+  
+  .link:hover{
+    color: red;
+  }
+  
+  .navigation .nav-pills{
+      text-align: right;
+  }
+  
+  .navigation .link-active{
+      font-weight: bold;
+  }
+  
+  /** Lists **/
+  
+  .list-non-bullet{
+      list-style: none;
+  }
+  
+  .list-item-inline{
+      display: inline;
+      padding: 0rem 0.5rem;
+  }
+  
+  
+  /* container */
+  
+  .top-container{
+    background-color:#e3fdfd;
+    position: relative;
+    padding: 20px;
+  }
+  .middle-container{
+     background-color:#e3fdfd;
+  
+  
+  }
+  .bottom-container{
+     background-color:#e3fdfd;
+  
+  }
+  .messi{
+    width: 25%;
+    padding: 3rem;
+    border-radius: 2rem;
+  }
+  .skill-row{
+    width: 50%;
+    margin: auto;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  .comp{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  .chilli{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  
+  .coder{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  .top-cloud{
+    position:absolute;
+    top: 50px;
+    right: 100px;
+  }
+  
+  .bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+  
+  }
+  .h1-index{
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+  
+    margin:20px auto 0px auto;
+  }
+  
+  .p-index{
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: normal;
+  }
+  
+  .intro{
+    width:30%;
+    margin: auto;
+  
+  }
+  h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+  }
+  h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+  }
+  body{
+    margin: 0px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+  }
+  hr{
+    border: dotted #11999E;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+  }
+  .margin{
+    width: 30%;
+    margin: 30px auto;
+  }
+  .footer-link{
+    color:#11999E;
+    padding: 1rem;
+    text-decoration: none;
+  }
+  
+  .footer{
+    padding: 1rem;
+  }
+  
+  .footer-link:hover{
+    color:red;
+  }
+
+  .footer{
+    margin: 0px auto 0px auto;
+  }
+  
+  
+  /* project.html */
+  
+  .h1-project{
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    margin:20px auto 0px auto;
+    font-size: 5rem;
+  
+  }
+  
+  .hero{
+    text-align: center;
+  }
+  
+  .list-non-bullet {
+    list-style: none;
+    padding-inline-start: 0px;
+  }
+  
+  .showcase-list {
+    padding: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 3rem auto;
+    background-color: #F3F0D7;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .showcase-list h1 {
+    margin: 0.5rem;
+  }
+  
+  .showcase-list p {
+    padding-bottom: 1rem;
+  }
+  
+  a{
+    text-decoration: none;
+    color:#11999E;
+    padding: 0.5rem;
+    text-decoration: none;
+  }
+  
